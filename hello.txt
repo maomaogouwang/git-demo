@@ -20,3 +20,4 @@
     20	hello git!
     21	hello git!
     22    REMOTE GIT
+pull
